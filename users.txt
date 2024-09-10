@@ -1,0 +1,5 @@
+Account Type	Username	Email	Password
+Super Admin 	sadmin@admin.com	cj
+Admin	admin	admin@admin.com	123456
+Teacher	teacher	teacher@teacher.com	cj
+Parent	padre	padre@gmail.com	123456
